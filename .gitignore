@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.wav
+*.mp3
+*.aac
+*.flac
+*.m4a
+*.mp4
+*.mkv
+*.mov
+*.zip
+rescued_audio/
+result*/
